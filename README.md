@@ -1,8 +1,7 @@
 # Taiga Front #
 
-![Kaleidos Project](http://kaleidos.net/static/img/badge.png "Kaleidos Project")
-
-This repo is a compiled versión of https://github.com/taigaio/taiga-front
+This branch is a compiled version of https://github.com/mjrk/taiga-front,
+branch `5.5.5.change-project`
 
 ## Installation ##
 
