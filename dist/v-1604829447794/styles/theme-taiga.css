@@ -12871,16 +12871,16 @@ tg-filter {
     margin: 0; }
   .time-spent-wrapper .time-spent-text {
     margin: .5rem .55rem;
-    margin-bottom: 0.62rem; }
+    margin-bottom: .62rem; }
   .time-spent-wrapper .detail-edit-time-spent {
     cursor: pointer;
     margin-left: .5rem;
     opacity: 0;
     transition: opacity .2s; }
   .time-spent-wrapper .time-spent-icon {
+    margin-right: .5rem;
     position: relative;
-    top: .55rem;
-    margin-right: 0.5rem; }
+    top: .55rem; }
     .time-spent-wrapper .time-spent-icon svg {
       width: 1.2rem;
       height: 1.2rem; }
